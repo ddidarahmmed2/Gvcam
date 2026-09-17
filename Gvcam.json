@@ -10,5 +10,11 @@
         "key": "apu67890",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5ba7e400030b4fd7",
+        "key": "key12345",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
 ]
