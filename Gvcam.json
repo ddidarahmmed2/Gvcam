@@ -29,4 +29,10 @@
         "expirydate": "31-09-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3b50d08c759d8ace",
+        "key": "d2in",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
 ]
