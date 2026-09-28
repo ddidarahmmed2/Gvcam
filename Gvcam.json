@@ -41,4 +41,10 @@
         "expirydate": "15-06-2037",
         "Allowoffline": true
     },
+    {
+        "device_id": "04c939604a4566ad",
+        "key": "S2in2",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
 ]
