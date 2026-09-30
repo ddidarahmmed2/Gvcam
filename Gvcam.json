@@ -47,4 +47,10 @@
         "expirydate": "15-06-2037",
         "Allowoffline": true
     },
+    {
+        "device_id": "b949f3f33d0e0b9c",
+        "key": "sha2in",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
 ]
