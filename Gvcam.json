@@ -53,4 +53,10 @@
         "expirydate": "15-06-2037",
         "Allowoffline": true
     },
+    {
+        "device_id": "055458f4207f3638",
+        "key": "A2in",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
 ]
