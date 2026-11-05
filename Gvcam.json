@@ -113,4 +113,11 @@
         "Allowoffline": true
     },
 
+
+    {
+        "device_id": "85ac4270a56453dd",
+        "key": "d2in",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
 ]
